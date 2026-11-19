@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="104 104 816 816" fill="none" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 80 864 864" fill="none" aria-hidden="true">
+  <defs><filter id="photo-reject-shadow" x="-15%" y="-15%" width="130%" height="140%" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="10" stdDeviation="9" flood-color="#25211e" flood-opacity=".23"/></filter></defs>
+  <g filter="url(#photo-reject-shadow)">
   <g transform="rotate(-10 512 512)">
     <rect x="294" y="252" width="460" height="550" rx="20" fill="#25211e"/>
     <rect x="282" y="240" width="460" height="550" rx="20" fill="#fff9e9" stroke="#25211e" stroke-width="12"/>
@@ -9,4 +11,5 @@
   </g>
   <circle cx="512" cy="512" r="350" stroke="#ed4126" stroke-width="90"/>
   <path d="M264.5 264.5L759.5 759.5" stroke="#ed4126" stroke-width="90"/>
+  </g>
 </svg>
