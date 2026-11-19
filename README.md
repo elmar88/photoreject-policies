@@ -7,7 +7,7 @@ Public privacy, terms and support pages for **PhotoReject: Photo Cleaner**, main
 - [Support](https://elmar88.github.io/photoreject-policies/support/)
 - [PhotoReject](https://elmar88.github.io/photoreject-policies/)
 
-Photo cleanup is free. The optional one-time PhotoReject Pro purchase adds on-device video compression. Original videos are kept unless the user chooses to delete them after saving a verified compressed copy.
+Photo cleanup is free. The optional one-time PhotoReject Pro purchase adds on-device Smart Keeper suggestions and video compression. Smart Keeper checks visible smiles, blinks and photo quality without uploading images or making deletion decisions. Original videos are kept unless the user chooses to delete them after saving a verified compressed copy.
 
 ## Updating the pages
 
